@@ -47,7 +47,6 @@ motto: "code. break. fix. repeat."
 | ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white) | ![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) |
 | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) | ![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) |
 
-*(Edit this table anytime — swap in the exact tools you use most.)*
 
 </div>
 
@@ -55,7 +54,6 @@ motto: "code. break. fix. repeat."
 
 ### 📊 GitHub Stats & Activity
 
-> Generated automatically once a day by a GitHub Action running in this repo — no external live API, so it never breaks due to rate limits.
 
 <div align="center">
 
@@ -82,7 +80,6 @@ motto: "code. break. fix. repeat."
 ### 🐍 Contribution Snake
 
 > A pixel snake that eats through my daily commit graph — runs automatically every day via GitHub Actions.
-> (One-time setup needed — see **Setup Notes** below.)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/vineetm1204-m/vineetm1204-m/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
