@@ -55,12 +55,17 @@ motto: "code. break. fix. repeat."
 
 ### 📊 GitHub Stats & Activity
 
+> Generated automatically once a day by a GitHub Action running in this repo — no external live API, so it never breaks due to rate limits.
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vineetm1204-m&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&border_color=222222" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetm1204-m&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+<img src="./metrics.svg" alt="GitHub metrics" width="100%"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetm1204-m&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&langs_count=8" />
+</div>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vineetm1204-m&hide_border=true&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
@@ -69,14 +74,6 @@ motto: "code. break. fix. repeat."
 ### 📈 Daily Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vineetm1204-m&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333" width="100%"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=vineetm1204-m&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 
 </div>
 
