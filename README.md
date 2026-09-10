@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vineetm1204-m&label=Profile%20Views&color=#333333&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vineetm1204-m&label=Profile%20Views&color=333333&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open%20to%20Work-000000?style=flat&logo=briefcase&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20AI%2FML-000000?style=flat" />
 
