@@ -94,7 +94,7 @@ motto: "code. break. fix. repeat."
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineet-mittal-52b5901b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vineetm1204/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetm1204@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%2B91%207049915277-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917049915277)
+<!-- [![Phone](https://img.shields.io/badge/Call-%2B91%207049915277-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917049915277) -->
 
 </div>
 
